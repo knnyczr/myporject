@@ -1,0 +1,11 @@
+html{
+    /* background-color: red; */
+}
+main{
+    display: flex; 
+    flex-wrap: wrap;
+}
+.card{
+    margin: 5px;
+    width: 30%; 
+}
